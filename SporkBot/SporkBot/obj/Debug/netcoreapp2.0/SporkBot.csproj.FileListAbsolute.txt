@@ -1,0 +1,11 @@
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\bin\Debug\netcoreapp2.0\SporkBot.deps.json
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\bin\Debug\netcoreapp2.0\SporkBot.runtimeconfig.json
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\bin\Debug\netcoreapp2.0\SporkBot.runtimeconfig.dev.json
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\bin\Debug\netcoreapp2.0\SporkBot.dll
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\obj\Debug\netcoreapp2.0\SporkBot.csprojResolveAssemblyReference.cache
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\obj\Debug\netcoreapp2.0\SporkBot.csproj.CoreCompileInputs.cache
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\obj\Debug\netcoreapp2.0\SporkBot.AssemblyInfoInputs.cache
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\obj\Debug\netcoreapp2.0\SporkBot.AssemblyInfo.cs
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\bin\Debug\netcoreapp2.0\SporkBot.pdb
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\obj\Debug\netcoreapp2.0\SporkBot.dll
+C:\Users\Yoshimaro Ikeguchi\Documents\Code\Projects\SporkBot\SporkBot\SporkBot\obj\Debug\netcoreapp2.0\SporkBot.pdb
